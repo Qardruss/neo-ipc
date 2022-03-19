@@ -1,5 +1,9 @@
-Malware-free node-ipc
-NOT DEMALWARED YET, DON'T USE
+Node-IPC but demalwared if any malware ever shows up again in it
+
+
+To help me update from node-ipc, make a pull request for the new node-ipc update, and I'll check them in my spare time
+
+If your pull request has sussy code, I'll close it.
 
 node-ipc
 ================
