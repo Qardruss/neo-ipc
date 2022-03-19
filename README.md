@@ -1,4 +1,5 @@
-Thanks for all the free pizza, and thanks to all the police that showed up to SWAT me. They were really nice fellas.
+Malware-free node-ipc
+NOT DEMALWARED YET, DON'T USE
 
 node-ipc
 ================
